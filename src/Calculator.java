@@ -7,4 +7,7 @@ public class Calculator { // one
         return num1 - num2; // 4
 
     }
+    
+    public static double multiply (double num1, double num2){ // 5
+        return num1 * nu2; // 6
 }
