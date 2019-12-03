@@ -1,6 +1,9 @@
 public class Calculator { // one
     // this is a very useful method.
     public static double add(double num1, double num2) { // 1
+
+    public static double add(double num1, double num2){ // 1
+
         return num1 + num2; // 2
     }
 
