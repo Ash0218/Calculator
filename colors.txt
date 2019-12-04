@@ -12,3 +12,7 @@ brown
 pink
 silver
 gold
+cyan
+ivory
+bronze
+blonde
