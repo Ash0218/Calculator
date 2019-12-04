@@ -13,6 +13,10 @@ public class Calculator { // one
     }
 
     public static double multiply(double num1, double num2) { // 5
-        return num1 * num2; // 6
-    }
+            return num1 * num2; // 6
+        }
 }
+    public static double divide (double n1, double n2) { // 5
+        double result = n1 / n2; // 6
+        return result;
+    }
