@@ -12,9 +12,10 @@ public class Calculator { // one
 
         }
 
-
+ // this is a comment in GITHUB 1
         public static double divide ( double n1, double n2){ // 5
             double result = n1 / n2; // 6
             return result;
         }
-    }
+        // this is a comment in GITHUB 2
+    } 
